@@ -1,4 +1,4 @@
-# CSS Hands-On Assignment - Exercise 1
+# CSS Hands-On Assignment - Exercise 2
 
 # Description
 
