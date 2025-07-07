@@ -12,6 +12,8 @@ git clone https://github.com/ekundayoSO/altschool-css-502-2.git
 # Clone version of design
 [View from here](https://css-502-2.web.app)
 
+- Testing CI/CD with firebase
+
 # Author
 ```bash
 . Sulaimon Ekundayo
